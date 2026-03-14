@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NYuLn2p4)
+
+**Name**: Xuang Jin  
+**Computing ID**: yyf2uf  
+**Assignment**: HW3-Android App 2
+**GitHub Name**: xuangj  
+**Resources Cited**:  
+Parsing JSON:
+https://stackoverflow.com/questions/74889783/how-can-i-use-retrofit-to-parse-a-json-response-from-an-api-that-has-an-embedde
+
+RetrofitAPI:
+https://www.geeksforgeeks.org/kotlin/how-to-post-data-to-api-using-retrofit-in-android-using-jetpack-compose/
